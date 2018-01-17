@@ -1,0 +1,9 @@
+build*/
+bin*/
+*.kdev4
+*~
+*.pkg.tar.xz
+CMakeLists.txt.user*
+TAGS
+.tags
+.ctags
